@@ -17,7 +17,6 @@ Before running this calculator, make sure you have Node.js installed on your sys
 Clone the repository to your local machine:
 
 ```bash
-git clone https://your-repository-url.git
 cd calculator-cli
 ```
 
